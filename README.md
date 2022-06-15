@@ -4,3 +4,5 @@ This repository contains different Data science and Machine learning project fil
 Abhinav Dixit 1-08-06-2022.ipynb -> Kmean and Hierarichal Clustering.
 
 Abhinav+Dixit+2+-+08-06-2022.ipynb -> CART-Random Forest and Artificial Neural Networks
+
+AbhinavDixit-01--5-2022,ipynb -> ANNOVA (hypothesis technique and PCA(Reduce the no. of feature) algorithm
